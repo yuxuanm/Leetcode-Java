@@ -4,14 +4,14 @@ public class Java100 {
 	public static void main(String[] args) {
 		TreeNode p = new TreeNode(1);
 
-		p.left = new TreeNode(1);
-		p.right = new TreeNode(3);
-		p.left.left=new TreeNode(1);
+		p.left = new TreeNode(2);
+		p.left.left=new TreeNode(3);
+		p.right = new TreeNode(100);
 		
 		TreeNode q = new TreeNode(1);
-		q.left = new TreeNode(1);
-		q.right = new TreeNode(2);
-		q.left.left=new TreeNode(1);
+		q.left = new TreeNode(2);
+		q.left.left=new TreeNode(3);
+		q.right = new TreeNode(99);
 		
 		boolean b = isSameTree(p, q);
 		System.out.println(b);
