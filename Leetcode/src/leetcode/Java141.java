@@ -3,6 +3,7 @@ package leetcode;
 public class Java141 {
 	public boolean hasCycle(ListNode head) {
 		
+		if
 		return false;
 	}
 }
