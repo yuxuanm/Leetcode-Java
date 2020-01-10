@@ -20,3 +20,24 @@ class TreeNode101 {
 		val = x;
 	}
 }
+
+class Solution {
+    public boolean isSymmetric(TreeNode root) {
+		if(root == null)
+			return true;
+    	return isEqual(root.left, root.right);
+    }
+    
+    
+    public boolean isEqual(TreeNode p, TreeNode q) {
+    	if(p==null && q==null)
+    		return true;
+    	if(p!=null && q==null)
+    		return false;
+    	if(p==null && q!=null)
+    		return false;
+    	if(p.val != q.val)
+    		return false;
+    	return isEqual(p.left, q.right) && isEqual(p.right, q.left);
+    }
+}
