@@ -2,8 +2,8 @@ package leetcode;
 
 public class Q29 {
 	public static void main(String[] args) {
-		System.out.println(((2147483647>>1)+10)<<1);
-		int res = divide(2147483647, 1);
+//		System.out.println(((2147483647>>1)+10)<<1);
+		int res = divide(-2147483648, -1);
 //		System.out.println(Math.abs(Integer.MIN_VALUE));
 //		int res = divide(-20, 3);
 //		System.out.println(Math.abs(Integer.MIN_VALUE));
@@ -33,6 +33,7 @@ public class Q29 {
 //        }
 //        return res;
 //    }
+	
 	// Method 2:
 	public static int divide(int dividend, int divisor) {
 		if(dividend>=0)
@@ -42,37 +43,34 @@ public class Q29 {
 	}
 	
 	public static int positiveDividend(int dividend, int divisor) {
-		if(dividend<Math.abs(divisor))
-			return 0;
-		int div=divisor;
-		int res =1;
-		if(divisor<0)
-			res=-1;
-		while(Math.abs(dividend) >= Math.abs(divisor) << 1&&Math.abs(divisor)>0){
-			res <<= 1;
-			divisor <<= 1;
-		}
-		res+=positiveDividend(dividend-Math.abs(divisor), div);
-		return res;
+		int res =negativeDividend(-dividend, divisor);
+		
+		if(res==Integer.MIN_VALUE)
+			return Integer.MAX_VALUE;
+		
+		return -res;
 	}
 	
 	public static int negativeDividend(int dividend, int divisor) {
-		if(dividend>-Math.abs(divisor))
+		boolean flag = divisor>0;
+		int res =flag?-1:1;
+		divisor =flag?-divisor:divisor;
+		if(dividend>divisor)
 			return 0;
 		int div=divisor;
-		int res =-1; //default divisor>0
-		if(divisor<0)
-			res=1;
-		while(dividend <= -Math.abs(divisor) << 1){
-			if(dividend==-Math.abs((divisor))<<1) {
-				if(res>Integer.MAX_VALUE>>1)
-					return Integer.MAX_VALUE;
-				return res<<1;
-			}
+		while(dividend <=divisor << 1){
+			if(divisor<=Integer.MIN_VALUE>>1)
+				break;
 			res <<= 1;
 			divisor <<= 1;
 		}
 		res+=negativeDividend(dividend+Math.abs(divisor), div);
+		if(res<Integer.MIN_VALUE||res>Integer.MAX_VALUE)
+			return Integer.MAX_VALUE;
+		if(!flag&&res<0)//if flag is false, which means the result should be a positive
+						//value. Therefore, if the current res is negative, the res should
+						//exceed(smaller than) Integre.MIN_VALUE. 
+			return Integer.MAX_VALUE;
 		return res;
 	}
 }
