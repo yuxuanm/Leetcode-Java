@@ -11,8 +11,9 @@ public class Q47 {
 		List<List<Integer>> res=q47.permuteUnique(nums);
 	}
 	public List<List<Integer>> permuteUnique(int[] nums) {
-        List<List<Integer>> res = new ArrayList<List<Integer>>();
-        List<Integer> index;
+        List<List<Integer>> res = new ArrayList<List<Integer>>();//store res
+        List<Integer> index;//used to indicated weather the current value has been
+        					//already used or not, if already used, continue next cycle
         Arrays.sort(nums);
         List<Integer> list;
         int pos;
@@ -37,7 +38,7 @@ public class Q47 {
             return;
         }
         outer:for(int i=0;i<nums.length;i++){
-        	for(int n:index) {
+        	for(int n:index) {//to check whether the valued has been used
         		if(n==i)
         			continue outer;
         	}
