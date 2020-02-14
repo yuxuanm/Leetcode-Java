@@ -12,7 +12,7 @@ public class Q54 {
 		Q54 q54 = new Q54();
 		List<Integer> res = q54.spiralOrder(matrix);
 	}
-
+	// Method 1:
 	// wrong method:boundary problem
 //	public List<Integer> spiralOrder(int[][] matrix) {
 //		if(matrix.length==0)
@@ -78,6 +78,8 @@ public class Q54 {
 //		}
 //		return res;
 //	}
+	
+	//Method 2:
 	/**add the first row to the result list, then delete the first row, 
 	 * rotate the matrix, repeat the process
 	 * */
@@ -117,6 +119,10 @@ public class Q54 {
 		}
 		return arr;
 	}
+	
+	//Method 3:
+	/** simulate the process
+	 * */
 //	public List<Integer> spiralOrder(int[][] matrix) {
 //		List<Integer> res = new ArrayList<Integer>();
 //		if(matrix.length==0)
