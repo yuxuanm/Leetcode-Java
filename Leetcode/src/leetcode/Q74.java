@@ -8,6 +8,8 @@ public class Q74 {
 	}
 	
 	/**Method 3: Binary search
+	 * Runtime: 0ms beats 100%
+	 * memory: 41.8MB beats 36.24%
 	 * */
 	public boolean searchMatrix(int[][] matrix, int target) {
         int start = 0;
