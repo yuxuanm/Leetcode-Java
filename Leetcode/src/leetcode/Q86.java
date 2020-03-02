@@ -12,89 +12,72 @@ public class Q86 {
 		Q86 q86 = new Q86();
 		ListNode res = q86.partition(null, 2);
 	}
-	/**Method 1: three pointers
-	 * 			flag = false, there is no node matching the criteria
-	 * 			flag = true, there are some nodes matching the criteria 
+	
+	/**Method 1 optimized: two pointers
 	 * */
 	public ListNode partition(ListNode head, int x) {
-		ListNode largeDunny = new ListNode(0);
-		ListNode smallDunny = new ListNode(0);
-		largeDunny.next = head;
-		smallDunny.next = head;
+		ListNode largeDummy = new ListNode(0);
+		ListNode largePre = largeDummy;
+		ListNode smallDummy = new ListNode(0);
+		ListNode smallPre = smallDummy;
 		ListNode cur = head;
-		ListNode smallPre = smallDunny;
-		ListNode largePre = largeDunny;
-		boolean smallFlag = false;
-		boolean largeFlag = false;
+
 		while (cur != null) {
 			if (cur.val >= x) {
-				largeFlag=true;
 				largePre.next = cur;
 				largePre = cur;
 				cur = cur.next;
-				largePre.next=null;
 			} else {
-				smallFlag=true;
 				smallPre.next=cur;
 				smallPre=cur;
 				cur=cur.next;
-				smallPre.next=null;
 			}
 		}
-		if(!smallFlag)
-			return largeDunny.next;
-		if(!largeFlag)
-			return smallDunny.next;
+
+		largePre.next=null; // in case of there might be some nodes smaller than x after the last large node
 		
-		smallPre.next=largeDunny.next;
+		smallPre.next=largeDummy.next;
 
-		return smallDunny.next;
+		return smallDummy.next;
 	}
-
+	
+	
+//	/**Method 1: three pointers
+//	 * 			flag = false, there is no node matching the criteria
+//	 * 			flag = true, there are some nodes matching the criteria 
+//	 * */
 //	public ListNode partition(ListNode head, int x) {
-//		ListNode dunny = new ListNode(0);
-//		dunny.next = smallPartition(head, x);
-//		ListNode cur = dunny.next;
-//		while (cur.next != null)
-//			cur = cur.next;
-//		cur.next = largePartition(head, x);
-//
-//		return dunny.next;
-//	}
-//
-//	private ListNode largePartition(ListNode head, int x) {
-//		ListNode dunny = new ListNode(0);
-//		dunny.next = head;
-//		ListNode pre = dunny;
+//		ListNode largeDummy = new ListNode(0);
+//		ListNode smallDummy = new ListNode(0);
+//		largeDummy.next = head;
+//		smallDummy.next = head;
 //		ListNode cur = head;
+//		ListNode smallPre = smallDummy;
+//		ListNode largePre = largeDummy;
+//		boolean smallFlag = false;
+//		boolean largeFlag = false;
 //		while (cur != null) {
-//			if (cur.val < x)
+//			if (cur.val >= x) {
+//				largeFlag=true;
+//				largePre.next = cur;
+//				largePre = cur;
 //				cur = cur.next;
-//			else {
-//				pre.next = cur;
-//				pre = cur;
-//				cur = cur.next;
+//				largePre.next=null;
+//			} else {
+//				smallFlag=true;
+//				smallPre.next=cur;
+//				smallPre=cur;
+//				cur=cur.next;
+//				smallPre.next=null;
 //			}
 //		}
-//		pre.next = null;
-//		return dunny.next;
-//	}
+//		if(!smallFlag)
+//			return largeDummy.next;
+//		if(!largeFlag)
+//			return smallDummy.next;
+//		
+//		smallPre.next=largeDummy.next;
 //
-//	private ListNode smallPartition(ListNode head, int x) {
-//		ListNode dunny = new ListNode(0);
-//		dunny.next = head;
-//		ListNode pre = dunny;
-//		ListNode cur = head;
-//		while (cur != null) {
-//			if (cur.val >= x)
-//				cur = cur.next;
-//			else {
-//				pre.next = cur;
-//				pre = cur;
-//				cur = cur.next;
-//			}
-//		}
-//		pre.next = null;
-//		return dunny.next;
+//		return smallDummy.next;
 //	}
 }
