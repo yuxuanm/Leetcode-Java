@@ -13,6 +13,11 @@ public class Q90 {
 
 
 	static List<List<Integer>> res = new ArrayList<List<Integer>>();
+	
+	/**Method 1: backtrack
+	 *   22 ms beats 5.34%
+	 *   40 MB beats 5.03%
+	 * */
 	public static List<List<Integer>> subsetsWithDup(int[] nums) {
 		Arrays.sort(nums);
 		List<Integer> list = new ArrayList<Integer>();
