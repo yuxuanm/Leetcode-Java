@@ -8,6 +8,8 @@ public class Q98 {
 		TreeNode root = TreeNode.constructTree(new Integer[] {5,1,4,null,null,3,6});
 		System.out.println(isValidBST(root));
 	}
+	/**Inorder traversal approach: the inorder traversal of a valid BST is in ASC order.
+	 * */
 	public static boolean isValidBST(TreeNode root) {
         List<Integer> list = new ArrayList<Integer>();
         list = inOrderTraversal(root, list);
