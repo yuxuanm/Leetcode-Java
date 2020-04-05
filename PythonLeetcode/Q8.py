@@ -1,5 +1,5 @@
 import math
-
+import re
 
 def myAtoi( str: str):
     str=str.strip();
@@ -24,4 +24,7 @@ def myAtoi( str: str):
     return res
 
 
-print(myAtoi("2147483648"))
+
+a=" +4193 with  dsfs +412 words"
+print(a.strip())
+print(min(int(*re.findall('^[\+\-]?\d+',a.strip())),math.pow(2,31)-1))
