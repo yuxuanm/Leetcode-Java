@@ -4,6 +4,10 @@ import java.util.Deque;
 import java.util.LinkedList;
 
 public class TreeNode {
+	public static void main(String[] args) {
+		// eg
+		TreeNode root = TreeNode.constructTree(new Integer[] {5,1,4,null,null,3,6});
+	}
 	int val;
 	TreeNode left;
 	TreeNode right;
