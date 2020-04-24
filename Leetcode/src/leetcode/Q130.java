@@ -13,6 +13,9 @@ public class Q130 {
 
 	}
 
+	/**Results: runtime: 4ms beats 30.23%
+	 * 			memory: 41.6 MB beats 56.25%
+	 * */
 	public static void solve(char[][] board) {
 		//use a flag to indicate whether the current cell is 'O' and whether it is connected with the edge
 		boolean[][] flag = new boolean[board.length][board[0].length];
@@ -26,7 +29,8 @@ public class Q130 {
 						List<Integer> list = new ArrayList<Integer>();
 						list.add(i);
 						list.add(j);
-						BFS(list, flag, board);
+						BFS(list, flag, board); // if the cell is on any edge and has value 'O', start
+												// to search all the 'O' cells connected to it.
 						flag[i][j] = true;
 					}
 				}
