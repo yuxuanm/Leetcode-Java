@@ -2,7 +2,7 @@ package leetcode;
 
 public class Q152 {
 	public static void main(String[] args) {
-		int [] arr = new int[] {2,3,-2,4};
+		int [] arr = new int[] {-2,3,0,-5,-4};
 //		int [] arr = new int[] {-1,-2,-9,6};
 		int res = maxProduct(arr);
 		System.out.println(res);
