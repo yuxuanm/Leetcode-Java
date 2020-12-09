@@ -1,4 +1,7 @@
-# Leetcode
-Leetcode practice, one or two questions per day.
+# LeetCode-Java
 
-The file name refer to the number of questions on Leetcode (https://leetcode.com/problemset/all/).
+## 1. [Array]
+## 2. [DFS, BFS]
+## 3. [Backtracking]
+## 4. [Dynamic Programming](https://github.com/yuxuanm/Leetcode-Java/tree/master/Leetcode/src/dynamicprogramming)
+## 5. [Greedy]
