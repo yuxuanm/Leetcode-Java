@@ -1,6 +1,6 @@
 # LeetCode-Java
 
-## 1. [Array]
+## 1. [Array](https://github.com/yuxuanm/Leetcode-Java/tree/master/Leetcode/src/array)
 ## 2. [DFS, BFS]
 ## 3. [Backtracking]
 ## 4. [Dynamic Programming](https://github.com/yuxuanm/Leetcode-Java/tree/master/Leetcode/src/dynamicprogramming)
