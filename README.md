@@ -6,3 +6,4 @@
 ## 4. [Dynamic Programming](https://github.com/yuxuanm/Leetcode-Java/tree/master/Leetcode/src/dynamicprogramming)
 ## 5. [LinkedList](https://github.com/yuxuanm/Leetcode-Java/tree/master/Leetcode/src/linkedlist)
 ## 6. [Greedy]
+## 7. [Others(Sliding windows etc)](https://github.com/yuxuanm/Leetcode-Java/tree/master/Leetcode/src/others)
