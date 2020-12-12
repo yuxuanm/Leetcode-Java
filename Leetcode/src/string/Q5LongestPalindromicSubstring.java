@@ -1,4 +1,4 @@
-package others;
+package string;
 
 public class Q5LongestPalindromicSubstring {
 	public static void main(String[] args) {
