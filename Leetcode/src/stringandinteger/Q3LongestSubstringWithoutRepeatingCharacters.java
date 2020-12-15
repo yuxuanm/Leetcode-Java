@@ -1,4 +1,4 @@
-package string;
+package stringandinteger;
 
 import java.util.ArrayList;
 import java.util.HashMap;

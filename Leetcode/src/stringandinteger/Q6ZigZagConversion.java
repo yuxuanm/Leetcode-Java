@@ -1,4 +1,4 @@
-package string;
+package stringandinteger;
 
 public class Q6ZigZagConversion {
 	public static void main(String[] args) {

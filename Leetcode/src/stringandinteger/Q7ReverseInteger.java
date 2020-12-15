@@ -1,4 +1,4 @@
-package others;
+package stringandinteger;
 
 public class Q7ReverseInteger {
 	public static void main(String[] args) {
