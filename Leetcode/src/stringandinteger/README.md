@@ -9,4 +9,8 @@
 |9|[Palindrome Number](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/stringandinteger/Q9PalindromeNumber.java)| Easy | Math |
 |12|[Integer to Roman](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/stringandinteger/Q12IntegerToRoman.java)| Medium |Use an array or switch to represent different cases|
 |13|[Roman to Integer](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/stringandinteger/Q13RomanToInteger.java)| Easy |Reverse of Q12|
+|14|[Longest Common Prefix](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/stringandinteger/Q14LogestCommonPrefix.java)| Easy |String|
+||[]()|  ||
+||[]()|  ||
+||[]()|  ||
 ||[]()|  ||
