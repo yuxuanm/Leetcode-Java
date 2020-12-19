@@ -1,10 +1,17 @@
-# LeetCode-Java
+# Structure
 
 ## 1. [Array](https://github.com/yuxuanm/Leetcode-Java/tree/master/Leetcode/src/array)
 ## 2. [Tree](https://github.com/yuxuanm/Leetcode-Java/tree/master/Leetcode/src/tree)
-## 3. [Backtracking]
+## 3. [Stack]()
+## 4. [LinkedList](https://github.com/yuxuanm/Leetcode-Java/tree/master/Leetcode/src/linkedlist)
+## 5. [String and Integer](https://github.com/yuxuanm/Leetcode-Java/tree/master/Leetcode/src/stringandinteger)
+## 6. [Hash]()
+## 7. [Others()]()
+
+# Algorithm
+## 1. [DFS, BFS]
+## 2. [Binary Search]
+## 3. [Two Pointers]
 ## 4. [Dynamic Programming](https://github.com/yuxuanm/Leetcode-Java/tree/master/Leetcode/src/dynamicprogramming)
-## 5. [LinkedList](https://github.com/yuxuanm/Leetcode-Java/tree/master/Leetcode/src/linkedlist)
-## 6. [Greedy]
-## 7. [String and Integer](https://github.com/yuxuanm/Leetcode-Java/tree/master/Leetcode/src/stringandinteger)
-## 7. [Others(Sliding windows etc)]()
+## 5. [Recursion]
+## 6. [Math]
