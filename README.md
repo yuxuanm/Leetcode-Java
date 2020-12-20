@@ -1,4 +1,4 @@
-# Structure
+# By Structure
 
 ## 1. [Array](https://github.com/yuxuanm/Leetcode-Java/tree/master/Leetcode/src/array)
 ## 2. [Tree](https://github.com/yuxuanm/Leetcode-Java/tree/master/Leetcode/src/tree)
@@ -8,7 +8,9 @@
 ## 6. [Hash]()
 ## 7. [Others()]()
 
-# Algorithm
+&emsp;
+&emsp;
+# By Algorithm
 ## 1. [DFS, BFS]
 ## 2. [Binary Search]
 ## 3. [Two Pointers](https://github.com/yuxuanm/Leetcode-Java/blob/master/Algorithms/two%20pointers/README.md)
