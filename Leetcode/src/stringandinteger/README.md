@@ -1,5 +1,5 @@
-# Others
-| # | Title | Difficulty |Points|
+# String & Integer
+| # | Title | Difficulty |Algorithms|
 | :-----:| :----: | :----: |:----:| 
 |3|[Longest Substring Without Repeating Characters](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/stringandinteger/Q3LongestSubstringWithoutRepeatingCharacters.java)| Medium | Brute force & sliding window|
 |5|[Longest Palindromic Substring](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/stringandinteger/Q5LongestPalindromicSubstring.java)| Medium | Expand from middle|
@@ -11,6 +11,6 @@
 |13|[Roman to Integer](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/stringandinteger/Q13RomanToInteger.java)| Easy |Reverse of Q12|
 |14|[Longest Common Prefix](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/stringandinteger/Q14LogestCommonPrefix.java)| Easy |Compare character by character|
 |17|[Letter Combination of a Phone Number](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/stringandinteger/Q17LetterCombinationsOfPhoneNumber.java)| Medium |Backtracking|
-||[]()|  ||
+|20|[Valid Parentheses](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/stringandinteger/Q20ValidParentheses.java)| Easy |Stack|
 ||[]()|  ||
 ||[]()|  ||
