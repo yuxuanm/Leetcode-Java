@@ -1,7 +1,7 @@
 
-# Backtracking
+# Stack
 | # | Title | Difficulty | Structure|
 | :-----:| :----: | :----: |:----:|
-|17|[Letter Combination of a Phone Number](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/stringandinteger/Q17LetterCombinationsOfPhoneNumber.java)| Medium |String|
+|20|[Valid Parentheses](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/stringandinteger/Q20ValidParentheses.java)| Easy |String|
 ||[]()|  ||
 ||[]()|  ||
