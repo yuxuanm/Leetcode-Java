@@ -14,7 +14,8 @@
 ## 2. [Binary Search]
 ## 3. [Two Pointers](https://github.com/yuxuanm/Leetcode-Java/blob/master/Algorithms/two%20pointers/README.md)
 ## 4. [Dynamic Programming]
-## 5. [Recursion & Iteration](https://github.com/yuxuanm/Leetcode-Java/tree/master/Algorithms/recursion%20%26%20iteration)
-## 6. [Math]
-## 7. [Backtracking](https://github.com/yuxuanm/Leetcode-Java/tree/master/Algorithms/backtracking)
-## 8. [Stack](https://github.com/yuxuanm/Leetcode-Java/tree/master/Algorithms/stack)
+## 5. [Iteration](https://github.com/yuxuanm/Leetcode-Java/tree/master/Algorithms/recursion%20%26%20iteration)
+## 6. [Recursion]
+## 7. [Math]
+## 8. [Backtracking](https://github.com/yuxuanm/Leetcode-Java/tree/master/Algorithms/backtracking)
+## 9. [Stack](https://github.com/yuxuanm/Leetcode-Java/tree/master/Algorithms/stack)
