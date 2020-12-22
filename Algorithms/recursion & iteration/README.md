@@ -1,7 +1,7 @@
 
-# Backtracking
+# Iteration
 | # | Title | Difficulty | Structure|
 | :-----:| :----: | :----: |:----:|
-|17|[Letter Combination of a Phone Number](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/stringandinteger/Q17LetterCombinationsOfPhoneNumber.java)| Medium |String|
+|21|[Merge Two Sorted Lists](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/linkedlist/Q21MergeTwoSortedLists.java)| Easy |LinkedList|
 ||[]()|  ||
 ||[]()|  ||
