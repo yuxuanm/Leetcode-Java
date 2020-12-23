@@ -2,7 +2,7 @@ package linkedlist;
 
 import structures.ListNode;
 
-public class Q23SwapNodesInPairs {
+public class Q24SwapNodesInPairs {
 	/*
 	 * Method 1
 	 * 
