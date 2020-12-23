@@ -1,6 +1,6 @@
 package array;
 
-public class Q26 {
+public class Q26RemoveDuplicatesfromSortedArray {
 	
 	/*
 	 * Method 1
