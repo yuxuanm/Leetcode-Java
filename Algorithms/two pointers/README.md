@@ -7,5 +7,6 @@
 |18|[4 Sum](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/array/Q18FourSum.java)| Medium |Array|
 |19|[Remove Nth Node From End of List](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/linkedlist/Q19RemoveNthNodeFromEndofList.java)|Medium|LinkedList|
 | 26 |[Remove Duplicates from Sorted Array](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/array/Q26RemoveDuplicatesfromSortedArray.java) | Easy | Array | 
+| 27 | [Remove Elements](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/array/Q27RemoveElement.java) | Easy | Array | 
 ||[]()|  ||
 ||[]()|  ||
