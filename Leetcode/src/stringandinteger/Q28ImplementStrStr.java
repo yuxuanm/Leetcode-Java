@@ -11,22 +11,27 @@ public class Q28ImplementStrStr {
 		System.out.println(res);
 	}
 
+	/*
+	 * Method 1
+	 * 
+	 * Horspool's String search algorithm
+	 * 
+	 * Results: runtime 8ms beats 10.57% memory 38.3mb beats 40.80%
+	 * */
 	public static int strStr(String haystack, String needle) {
 		if (needle.equals(""))
 			return 0;
+
 		Map<Character, Integer> moveMap = new HashMap<Character, Integer>();
 		for (int i = 0; i < needle.length(); i++) {
-			if(i==needle.length()-1 && moveMap.containsKey(needle.charAt(i)))
+			if (i == needle.length() - 1 && moveMap.containsKey(needle.charAt(i)))
 				break;
 			else
 				moveMap.put(needle.charAt(i), needle.length() - i - 1);
 		}
-		int len = haystack.length() - needle.length();
-		int i=0;
-		
-		while(i<= haystack.length() - needle.length()) {
-			char c1=haystack.charAt(i) ;
-			char c2 = needle.charAt(0);
+		int i = 0;
+
+		while (i <= haystack.length() - needle.length()) {
 			if (haystack.charAt(i) == needle.charAt(0)) {
 				int j = 0;
 				while (haystack.charAt(i + j) == needle.charAt(j)) {
@@ -35,9 +40,9 @@ public class Q28ImplementStrStr {
 					else
 						j++;
 				}
-				// char c=
-				boolean flag = moveMap.containsKey(haystack.charAt(i+needle.length()-1));
-				i += moveMap.containsKey(haystack.charAt(i+needle.length()-1)) ? moveMap.get(haystack.charAt(i+needle.length()-1)) : needle.length();
+				i += moveMap.containsKey(haystack.charAt(i + needle.length() - 1))
+						? moveMap.get(haystack.charAt(i + needle.length() - 1))
+						: needle.length();
 				continue;
 			}
 			i++;
