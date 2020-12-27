@@ -13,4 +13,5 @@
 |17|[Letter Combination of a Phone Number](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/stringandinteger/Q17LetterCombinationsOfPhoneNumber.java)| Medium |Backtracking|
 |20|[Valid Parentheses](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/stringandinteger/Q20ValidParentheses.java)| Easy |Stack|
 |22|[Generate Parentheses](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/stringandinteger/Q22GenerateParentheses.java)| Medium |Backtrack|
+|28|[Implement strStr()](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/stringandinteger/Q28ImplementStrStr.java)|Easy |Brute force & two pointers |
 ||[]()|  ||
