@@ -11,6 +11,6 @@
 | 31 | [Next Permutation](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/array/Q31NextPermutation.java) | Medium | Two pointers | 
 | 33 | [Search in Rotated Sorted Array]() | Medium | Binary search, at least one half array is strictly increasing | 
 | 34 | [Find First and Last Position of Element in Sorted Array]()| Medium | Binary search, search the left bound & right bound separately|
-| 35 | [Search Insert Position](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/array/Q33SearchInsertPosition.java) | Easy | Binary search |
+| 35 | [Search Insert Position](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/array/Q35SearchInsertPosition.java) | Easy | Binary search |
 | 39 | [Combination Sum]() | Medium | Backtrack |
 | 40 | [Combination Sum II]() | Medium | Backtrack |
