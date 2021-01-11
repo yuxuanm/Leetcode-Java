@@ -1,6 +1,6 @@
 package array;
 
-public class Q33SearchInsertPosition {
+public class Q35SearchInsertPosition {
 	/*
 	 * Method 2:
 	 * 
