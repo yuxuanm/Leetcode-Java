@@ -9,5 +9,6 @@
 | 26 |[Remove Duplicates from Sorted Array](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/array/Q26RemoveDuplicatesfromSortedArray.java) | Easy | Array | 
 | 27 | [Remove Elements](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/array/Q27RemoveElement.java) | Easy | Array | 
 |28|[Implement strStr()](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/stringandinteger/Q28ImplementStrStr.java)|Easy |String |
+| 31 | [Next Permutation](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/array/Q31NextPermutation.java) | Medium | Array | 
 ||[]()|  ||
 ||[]()|  ||
