@@ -3,9 +3,15 @@ package array;
 public class Q31NextPermutation {
 
 	/*
+	 * Two conditions: 
+	 * 1st: if nums is already in DESC order, then reverse it 
+	 * 2nd: if nums is not in DESC order, there must be at least two 
+	 * neighboring digits in array are in ASC order. From that point, 
+	 * we find the minimum value that is greater than that point, swap them 
+	 * and then sort the right part array in ASC order.
 	 * 
 	 * Results: runtime 1ms beats 96.96% memory 38.6MB beats 63.03%.
-	 * */
+	 */
 	public void nextPermutation(int[] nums) {
 		if (nums == null || nums.length == 0 || nums.length == 1)
 			return;
@@ -18,7 +24,7 @@ public class Q31NextPermutation {
 		if (fast == 0) // nums is already in DESC order, then reverse it
 			reverse(nums);
 		else
-			helper(nums, slow);
+			helper(nums, slow); // find swapping point
 	}
 
 	private void reverse(int[] nums) {
@@ -44,7 +50,7 @@ public class Q31NextPermutation {
 		nums[index] = nums[swap_index];
 		nums[swap_index] = tmp;
 
-		quickSort(nums, index);
+		quickSort(nums, index); // sort the remain part in asc order
 	}
 
 	private void quickSort(int[] nums, int index) {
