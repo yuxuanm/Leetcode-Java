@@ -9,7 +9,7 @@
 | 26 |[Remove Duplicates from Sorted Array](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/array/Q26RemoveDuplicatesfromSortedArray.java) | Easy | Two pointers | 
 | 27 | [Remove Elements](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/array/Q27RemoveElement.java) | Easy | Two pointers | 
 | 31 | [Next Permutation](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/array/Q31NextPermutation.java) | Medium | Two pointers | 
-| 33 | [Search in Rotated Sorted Array]() | Medium | Binary search, at least one half array is strictly increasing | 
+| 33 | [Search in Rotated Sorted Array](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/array/Q33SearchInRotatedSortedArray.java) | Medium | Binary search| 
 | 34 | [Find First and Last Position of Element in Sorted Array]()| Medium | Binary search, search the left bound & right bound separately|
 | 35 | [Search Insert Position](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/array/Q35SearchInsertPosition.java) | Easy | Binary search |
 | 39 | [Combination Sum]() | Medium | Backtrack |
