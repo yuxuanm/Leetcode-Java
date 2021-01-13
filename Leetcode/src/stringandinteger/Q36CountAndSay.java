@@ -1,6 +1,6 @@
 package stringandinteger;
 
-public class Q36CountAndSay {
+public class Q38CountAndSay {
 	/*
 	 * Method 1:
 	 * Iteration
@@ -16,12 +16,12 @@ public class Q36CountAndSay {
 		String res = "1";
 		String tmpres = "";
 		for (int i = 2; i <= n; i++) {
-			int cnt = 0;
+			int cnt = 0; // count
 			int cur = res.charAt(0) - '0';
 			for (int j = 0; j < res.length(); j++) {
-				if (res.charAt(j) - '0' == cur) {
+				if (res.charAt(j) - '0' == cur) { // if current digit is same as previous digit
 					cnt += 1;
-				} else {
+				} else { 
 					tmpres += cnt;
 					tmpres += cur;
 					cnt = 1;
