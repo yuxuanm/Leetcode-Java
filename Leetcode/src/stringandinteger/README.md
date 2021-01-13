@@ -14,5 +14,5 @@
 |20|[Valid Parentheses](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/stringandinteger/Q20ValidParentheses.java)| Easy |Stack|
 |22|[Generate Parentheses](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/stringandinteger/Q22GenerateParentheses.java)| Medium |Backtrack|
 |28|[Implement strStr()](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/stringandinteger/Q28ImplementStrStr.java)|Easy |Brute force & two pointers(Horspool's algorithm) |
-|36|[Count and Say](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/stringandinteger/Q36CountAndSay.java)| Easy |Iteration|
+|36|[Count and Say](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/stringandinteger/Q38CountAndSay.java)| Easy |Iteration|
 ||[]()|  ||
