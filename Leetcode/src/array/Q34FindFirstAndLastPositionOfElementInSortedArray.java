@@ -1,14 +1,14 @@
 package array;
 
 public class Q34FindFirstAndLastPositionOfElementInSortedArray {
-	
+
 	/*
-	 * Method 1: Binary search
+	 * Method 1: Binary search 
 	 * step 1. binary search to find any one of the target.
 	 * step 2. search the range
 	 * 
 	 * Results: runtime 0ms beats 100% memory 41.8mb beats 21.18%.
-	 * */
+	 */
 	public int[] searchRange(int[] nums, int target) {
 		if (nums == null || nums.length == 0)
 			return new int[] { -1, -1 };
