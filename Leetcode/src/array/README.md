@@ -13,5 +13,5 @@
 | 34 | [Find First and Last Position of Element in Sorted Array](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/array/Q34FindFirstAndLastPositionOfElementInSortedArray.java)| Medium | Binary search|
 | 35 | [Search Insert Position](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/array/Q35SearchInsertPosition.java) | Easy | Binary search |
 | 36| [Valid Sudoku](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/array/Q36ValidSudoku.java)| Medium| Iteration |
-| 39 | [Combination Sum]() | Medium | Backtrack |
-| 40 | [Combination Sum II]() | Medium | Backtrack |
+| 39 | [Combination Sum](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/array/Q39CombinationSum.java) | Medium | Backtrack |
+| 40 | [Combination Sum II](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/array/Q40CombinationSumII.java) | Medium | Backtrack |
