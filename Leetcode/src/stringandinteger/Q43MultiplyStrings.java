@@ -3,14 +3,7 @@ package stringandinteger;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Q43 {
-	public static void main(String[] args) {
-		String s1 = "123";
-		String s2 = "456";
-		String res = multiply(s1, s2);
-		System.out.println(res);
-	}
-	
+public class Q43MultiplyStrings{
 	
 	/*
 	 * Method 1
