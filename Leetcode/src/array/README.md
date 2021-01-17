@@ -15,3 +15,9 @@
 | 36| [Valid Sudoku](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/array/Q36ValidSudoku.java)| Medium| Iteration |
 | 39 | [Combination Sum](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/array/Q39CombinationSum.java) | Medium | Backtrack |
 | 40 | [Combination Sum II](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/array/Q40CombinationSumII.java) | Medium | Backtrack |
+| 46 | [Permutations](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/array/Q46Permutations.java) | Medium | Backtrack |
+| 47 | [Permutations II](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/array/Q47PermutationsII.java) | Medium | Backtrack |
+|  | []() |  |  |
+|  | []() |  |  |
+|  | []() |  |  |
+|  | []() |  |  |
