@@ -19,4 +19,4 @@
 ## 7. [Math]
 ## 8. [Backtracking](https://github.com/yuxuanm/Leetcode-Java/tree/master/Algorithms/backtracking)
 ## 9. [Stack](https://github.com/yuxuanm/Leetcode-Java/tree/master/Algorithms/stack)
-## 10. [Others](https://github.com/yuxuanm/Leetcode-Java/edit/master/README.md)
+## 10. [Others](https://github.com/yuxuanm/Leetcode-Java/tree/master/Algorithms/others)
