@@ -17,7 +17,7 @@
 | 40 | [Combination Sum II](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/array/Q40CombinationSumII.java) | Medium | Backtrack |
 | 46 | [Permutations](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/array/Q46Permutations.java) | Medium | Backtrack |
 | 47 | [Permutations II](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/array/Q47PermutationsII.java) | Medium | Backtrack |
-|  | []() |  |  |
+| 48 | [Rotate Image](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/array/Q48RotateImage.java) | Medium | Others |
 |  | []() |  |  |
 |  | []() |  |  |
 |  | []() |  |  |
