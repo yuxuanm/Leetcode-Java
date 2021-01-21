@@ -13,7 +13,7 @@
 ## 1. [DFS, BFS]
 ## 2. [Binary Search](https://github.com/yuxuanm/Leetcode-Java/tree/master/Algorithms/binary%20search)
 ## 3. [Two Pointers](https://github.com/yuxuanm/Leetcode-Java/blob/master/Algorithms/two%20pointers/README.md)
-## 4. [Dynamic Programming]
+## 4. [Dynamic Programming](https://github.com/yuxuanm/Leetcode-Java/tree/master/Algorithms/dynamic%20programming)
 ## 5. [Iteration](https://github.com/yuxuanm/Leetcode-Java/tree/master/Algorithms/recursion%20%26%20iteration)
 ## 6. [Recursion]
 ## 7. [Math]
