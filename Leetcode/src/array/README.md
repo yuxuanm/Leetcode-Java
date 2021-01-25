@@ -19,5 +19,5 @@
 | 47 | [Permutations II](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/array/Q47PermutationsII.java) | Medium | Backtrack |
 | 48 | [Rotate Image](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/array/Q48RotateImage.java) | Medium | Others |
 | 53 | [Maximum Subarray](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/array/Q53MaximumSubarray.java) | Easy | Dynamic Programming |
-|  | []() |  |  |
+|55  | [Jump Game](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/array/Q55JumpGame.java) | Medium | Dynamic Programming or Greedy |
 |  | []() |  |  |
