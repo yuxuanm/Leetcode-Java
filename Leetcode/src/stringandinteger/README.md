@@ -18,6 +18,6 @@
 |43|[Multiply Strings](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/stringandinteger/Q43MultiplyStrings.java)| Medium |Iteration|
 |49|[Group Anagrams](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/stringandinteger/Q49GroupAnagrams.java)| Medium |HashMap|
 |50|[Pow](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/stringandinteger/Q50MyPow.java)| Medium |Binary Search|
-||[]()|  ||
+|58|[Length of Last Word](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/stringandinteger/Q58LengthofLastWord.java)| Easy |None|
 ||[]()|  ||
 
