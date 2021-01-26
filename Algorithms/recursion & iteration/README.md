@@ -7,4 +7,5 @@
 | 36| [Valid Sudoku](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/array/Q36ValidSudoku.java)| Medium| Array |
 |38|[Count and Say](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/stringandinteger/Q38CountAndSay.java)| Easy |Iteration|
 |43|[Multiply Strings](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/stringandinteger/Q43MultiplyStrings.java)| Medium |String|
+| 56 | [Merge Intervals](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/array/Q56MergeIntervals.java) | Medium | Array |
 ||[]()|  ||
