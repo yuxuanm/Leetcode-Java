@@ -16,7 +16,7 @@ public class Q56MergeIntervals {
 	 * 		   if arr[1]> end, then (start, end) is one of the final intervals
 	 *         else the current arr can be merged with (start, end)		   
 	 * 
-	 * Results: runtime 86ms beats 5.06% memory 40.8mb beats 93.74%
+	 * Results: runtime 6ms beats 95.37% memory 41.1mb beats 71.50%
 	 * */
 	public int[][] merge(int[][] intervals) {
 		Arrays.sort(intervals, new Comparator<int []>() {
@@ -42,27 +42,7 @@ public class Q56MergeIntervals {
 			}
 		}
 		res.add(new int[] { start, end });
-
-		int[][] res2 = new int[res.size()][2];
-		for (int i = 0; i < res.size(); i++) {
-			res2[i] = res.get(i);
-		}
-		return res2;
+		return res.toArray(new int[res.size()][2]);
 	}
 
-	/**
-	 * Sort array.
-	 * */
-	private void sort(int[][] intervals) {
-		for (int i = 0; i < intervals.length - 1; i++) {
-			int min = i;
-			for (int j = i + 1; j < intervals.length; j++) {
-				if (intervals[j][0] < intervals[min][0])
-					min = j;
-			}
-			int[] tmp = intervals[min];
-			intervals[min] = intervals[i];
-			intervals[i] = tmp;
-		}
-	}
 }
