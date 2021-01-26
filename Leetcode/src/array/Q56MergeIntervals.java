@@ -1,6 +1,8 @@
 package array;
 
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Comparator;
 import java.util.List;
 
 public class Q56MergeIntervals {
@@ -17,7 +19,13 @@ public class Q56MergeIntervals {
 	 * Results: runtime 86ms beats 5.06% memory 40.8mb beats 93.74%
 	 * */
 	public int[][] merge(int[][] intervals) {
-		sort(intervals);
+		Arrays.sort(intervals, new Comparator<int []>() {
+
+			@Override
+			public int compare(int[] o1, int[] o2) {
+				return o1[0]-o2[0];
+			}
+		});
 		List<int[]> res = new ArrayList<int[]>();
 		int start = intervals[0][0];
 		int end = intervals[0][1];
