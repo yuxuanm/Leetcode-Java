@@ -21,7 +21,7 @@
 | 53 | [Maximum Subarray](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/array/Q53MaximumSubarray.java) | Easy | Dynamic Programming |
 |55  | [Jump Game](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/array/Q55JumpGame.java) | Medium | Dynamic Programming or Greedy |
 | 56 | [Merge Intervals](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/array/Q56MergeIntervals.java) | Medium | Interation |
-|  | []() |  |  |
+| 57 | [Insert Intervals](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/array/Q57InsertInterval.java) | Medium | Interation |
 |  | []() |  |  |
 |  | []() |  |  |
 |  | []() |  |  |
