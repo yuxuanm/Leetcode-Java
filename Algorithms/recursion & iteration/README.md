@@ -9,4 +9,5 @@
 |43|[Multiply Strings](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/stringandinteger/Q43MultiplyStrings.java)| Medium |String|
 | 56 | [Merge Intervals](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/array/Q56MergeIntervals.java) | Medium | Array |
 | 57 | [Insert Intervals](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/array/Q57InsertInterval.java) | Medium | Array |
+|61|[Rotate List](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/linkedlist/Q61RotateList.java)|Medium|LinkedList|
 ||[]()|  ||
