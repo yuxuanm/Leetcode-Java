@@ -24,6 +24,6 @@
 | 56 | [Merge Intervals](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/array/Q56MergeIntervals.java) | Medium | Interation |
 | 57 | [Insert Intervals](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/array/Q57InsertInterval.java) | Medium | Interation |
 | 59 | [Spiral Matrix II](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/array/Q59SpiralMatrixII.java) | Medium | Others (simulate the process) |
-|  | []() |  |  |
+| 62 | [Unique Paths](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/array/Q62UniquePaths.java) | Medium | Dynamic Programming |
 |  | []() |  |  |
 |  | []() |  |  |
