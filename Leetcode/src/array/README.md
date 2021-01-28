@@ -19,10 +19,11 @@
 | 47 | [Permutations II](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/array/Q47PermutationsII.java) | Medium | Backtrack |
 | 48 | [Rotate Image](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/array/Q48RotateImage.java) | Medium | Others |
 | 53 | [Maximum Subarray](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/array/Q53MaximumSubarray.java) | Easy | Dynamic Programming |
+| 54 | [Spiral Matrix](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/array/Q54SpiralMatrix.java) | Medium | Others (simulate the process) |
 |55  | [Jump Game](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/array/Q55JumpGame.java) | Medium | Dynamic Programming or Greedy |
 | 56 | [Merge Intervals](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/array/Q56MergeIntervals.java) | Medium | Interation |
 | 57 | [Insert Intervals](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/array/Q57InsertInterval.java) | Medium | Interation |
-|  | []() |  |  |
+| 59 | [Spiral Matrix II](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/array/Q59SpiralMatrixII.java) | Medium | Others (simulate the process) |
 |  | []() |  |  |
 |  | []() |  |  |
 |  | []() |  |  |
