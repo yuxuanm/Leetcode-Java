@@ -27,4 +27,9 @@
 | 62 | [Unique Paths](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/array/Q62UniquePaths.java) | Medium | Dynamic Programming |
 | 63 | [Unique Paths II](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/array/Q63UniquePathsII.java) | Medium | Dynamic Programming |
 | 64 | [Minimum Path Sum](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/array/Q64MinimumPathSum.java) | Medium | Dynamic Programming |
+| 66 | [Plus One](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/array/Q66PlusOne.java) | Easy | Iteration |
+|  | []() |  |  |
+|  | []() |  |  |
+|  | []() |  |  |
+|  | []() |  |  |
 |  | []() |  |  |
