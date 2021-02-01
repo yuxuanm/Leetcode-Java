@@ -20,7 +20,7 @@
 |50|[Pow](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/stringandinteger/Q50MyPow.java)| Medium |Binary Search|
 |58|[Length of Last Word](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/stringandinteger/Q58LengthofLastWord.java)| Easy |None|
 |67|[Add Binary](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/stringandinteger/Q67AddBinary.java)| Easy |Iteration|
-||[]()|  ||
+|69|[Sqrt(X)](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/stringandinteger/Q69SqrtX.java)| Easy |Recursion && Binary Search|
 ||[]()|  ||
 ||[]()|  ||
 ||[]()|  ||
