@@ -7,5 +7,6 @@
 | 62 | [Unique Paths](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/array/Q62UniquePaths.java) | Medium | Array |
 | 63 | [Unique Paths II](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/array/Q63UniquePathsII.java) | Medium | Array |
 | 64 | [Minimum Path Sum](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/array/Q64MinimumPathSum.java) | Medium | Array |
+| 70 | [Climbing Stairs](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/array/Q70ClimbingStairs.java) | Easy | Array |
 ||[]()|  ||
 ||[]()|  ||
