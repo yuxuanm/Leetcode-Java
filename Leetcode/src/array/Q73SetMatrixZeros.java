@@ -2,6 +2,8 @@ public class Q73SetMatrixZeros{
     /**
      * Method 1: Iteration
      * two for loops
+     *
+     * Results: runtime 8ms memory 39.7mb
      */
     public void setZeroes(int[][] matrix) {
         Map<Integer,List<Integer>> map = new HashMap<Integer, List<Integer>>();
