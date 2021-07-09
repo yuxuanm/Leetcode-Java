@@ -5,7 +5,8 @@
 ## 3. [LinkedList](https://github.com/yuxuanm/Leetcode-Java/tree/master/Leetcode/src/linkedlist)
 ## 4. [String and Integer](https://github.com/yuxuanm/Leetcode-Java/tree/master/Leetcode/src/stringandinteger)
 ## 5. [Hash]()
-## 6. [Others()]()
+## 6. [Stack](https://github.com/yuxuanm/Leetcode-Java/tree/master/Leetcode/src/stack)
+## 7. [Others()]()
 
 &emsp;
 &emsp;
@@ -18,6 +19,5 @@
 ## 6. [Recursion](https://github.com/yuxuanm/Leetcode-Java/tree/master/Algorithms/recursion)
 ## 7. [Math]
 ## 8. [Backtracking](https://github.com/yuxuanm/Leetcode-Java/tree/master/Algorithms/backtracking)
-## 9. [Stack](https://github.com/yuxuanm/Leetcode-Java/tree/master/Algorithms/stack)
-## 10.[Greedy](https://github.com/yuxuanm/Leetcode-Java/tree/master/Algorithms/greedy)
-## 11. [Others](https://github.com/yuxuanm/Leetcode-Java/tree/master/Algorithms/others)
+## 9.[Greedy](https://github.com/yuxuanm/Leetcode-Java/tree/master/Algorithms/greedy)
+## 10. [Others](https://github.com/yuxuanm/Leetcode-Java/tree/master/Algorithms/others)
