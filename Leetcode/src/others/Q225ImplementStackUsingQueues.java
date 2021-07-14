@@ -4,6 +4,11 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 public class Q225ImplementStackUsingQueues {
+    /**
+     * Method 1: use 1 queue
+     *
+     * Results: runtime 0ms beats 100% memory 35.9mb beats 93.53%
+     * */
     private Queue<Integer> queue1;
     /** Initialize your data structure here. */
     public MyStack() {
