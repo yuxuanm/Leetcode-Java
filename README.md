@@ -20,5 +20,5 @@
 ## 7. [Math]
 ## 8. [Backtracking](https://github.com/yuxuanm/Leetcode-Java/tree/master/Algorithms/backtracking)
 ## 9.[Greedy](https://github.com/yuxuanm/Leetcode-Java/tree/master/Algorithms/greedy)
-## 10.[Sorting]((https://github.com/yuxuanm/Leetcode-Java/tree/master/Leetcode/src/sorting))
+## 10.[Sorting](https://github.com/yuxuanm/Leetcode-Java/tree/master/Leetcode/src/sorting)
 ## 11. [Others](https://github.com/yuxuanm/Leetcode-Java/tree/master/Algorithms/others)
