@@ -11,7 +11,7 @@ public class Q225ImplementStackUsingQueues {
      * */
     private Queue<Integer> queue1;
     /** Initialize your data structure here. */
-    public MyStack() {
+    public Q225ImplementStackUsingQueues() {
         queue1 = new LinkedList<Integer>();
     }
 
