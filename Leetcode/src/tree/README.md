@@ -7,3 +7,7 @@
 |98|[Validate Binary Search Tree](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/tree/Q98ValidateBinarySearchTree.java)| Medium |Inorder traversal|
 |102 |[Binary Tree Level Order Traversal](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/tree/Q102BinaryTreeLevelOrderTraversal.java)| Easy |Level order traversal|
 |144|[Binary Tree Preorder Traversal](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/tree/Q144BinaryTreePreorderTraversal.java)| Medium |Preorder Traversal|
+|617|[Merged Two Binary Trees](https://github.com/yuxuanm/Leetcode-Java/blob/master/Leetcode/src/tree/Q617MergedTwoBinaryTrees.java)| Easy | Recursion && BFS|
+||[]()|  ||
+||[]()|  ||
+||[]()|  ||
