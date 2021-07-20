@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e8659b8-0294-4ff7-af87-ebcb3822a130" name="Default Changelist" comment="Q647 Palindromic Substrings">
-      <change afterPath="$PROJECT_DIR$/Leetcode/src/array/Q621TaskScheduler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/src/tree/Q102BinaryTreeLevelOrderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/src/tree/Q144BinaryTreePreorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/tree/Q617MergedTwoBinaryTrees.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/sorting/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/sorting/QuickSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +19,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1v42gkbVvPMMDbXSH7dsTa4umf8" />
   <component name="ProjectViewState">
