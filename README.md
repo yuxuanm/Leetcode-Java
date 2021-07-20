@@ -5,7 +5,7 @@
 ## 3. [LinkedList](https://github.com/yuxuanm/Leetcode-Java/tree/master/Leetcode/src/linkedlist)
 ## 4. [String and Integer](https://github.com/yuxuanm/Leetcode-Java/tree/master/Leetcode/src/stringandinteger)
 ## 5. [Hash]()
-## 6. [Stack](https://github.com/yuxuanm/Leetcode-Java/tree/master/Leetcode/src/stack)
+## 6. [Stack and Queue](https://github.com/yuxuanm/Leetcode-Java/tree/master/Leetcode/src/stackandqueue)
 ## 7. [Others](https://github.com/yuxuanm/Leetcode-Java/tree/master/Leetcode/src/others)
 
 &emsp;
