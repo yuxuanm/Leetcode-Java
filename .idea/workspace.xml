@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e8659b8-0294-4ff7-af87-ebcb3822a130" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/src/stringandinteger/Q647PalindromicSubstrings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="8e8659b8-0294-4ff7-af87-ebcb3822a130" name="Default Changelist" comment="Q647 Palindromic Substrings">
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/array/Q621TaskScheduler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/tree/Q102BinaryTreeLevelOrderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/tree/Q144BinaryTreePreorderTraversal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/sorting/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/sorting/QuickSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +67,14 @@
       <option name="presentableId" value="Default" />
       <updated>1625807160008</updated>
     </task>
+    <task id="LOCAL-00001" summary="Q647 Palindromic Substrings">
+      <created>1626236620152</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1626236620152</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -81,15 +89,8 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Leetcode/src/stringandinteger/Solution.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Q647 Palindromic Substrings" />
+    <option name="LAST_COMMIT_MESSAGE" value="Q647 Palindromic Substrings" />
   </component>
 </project>
