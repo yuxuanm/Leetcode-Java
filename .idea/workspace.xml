@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e8659b8-0294-4ff7-af87-ebcb3822a130" name="Default Changelist" comment="Q647 Palindromic Substrings">
-      <change afterPath="$PROJECT_DIR$/Leetcode/src/tree/Q617MergedTwoBinaryTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/array/Q581ShortestUnsortedContinuousSubarray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/Leetcode.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,5 +99,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Q647 Palindromic Substrings" />
     <option name="LAST_COMMIT_MESSAGE" value="Q647 Palindromic Substrings" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/array/Q581ShortestUnsortedContinuousSubarray.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
