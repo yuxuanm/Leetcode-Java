@@ -11,7 +11,7 @@
 &emsp;
 &emsp;
 # By Algorithm
-## 1. [DFS, BFS]
+## 1. [DFS, BFS](https://github.com/yuxuanm/Leetcode-Java/tree/master/Algorithms/BFS%20%26%20DFS)
 ## 2. [Binary Search](https://github.com/yuxuanm/Leetcode-Java/tree/master/Algorithms/binary%20search)
 ## 3. [Two Pointers](https://github.com/yuxuanm/Leetcode-Java/blob/master/Algorithms/two%20pointers/README.md)
 ## 4. [Dynamic Programming](https://github.com/yuxuanm/Leetcode-Java/tree/master/Algorithms/dynamic%20programming)
