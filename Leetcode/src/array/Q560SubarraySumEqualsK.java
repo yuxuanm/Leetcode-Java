@@ -7,7 +7,7 @@ public class Q560SubarraySumEqualsK {
 
     /**
      * Method 2: HashMap + array
-     * 
+     *
      * Results: 20ms beats 97.53% memory 40.4mb beats 96.85%
      * */
     public int subarraySum2(int[] nums, int k) {
