@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e8659b8-0294-4ff7-af87-ebcb3822a130" name="Default Changelist" comment="Q647 Palindromic Substrings">
-      <change afterPath="$PROJECT_DIR$/Leetcode/src/array/Q581ShortestUnsortedContinuousSubarray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/array/Q560SubarraySumEqualsK.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/Leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/Leetcode.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
