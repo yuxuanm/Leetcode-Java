@@ -1,7 +1,159 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e8659b8-0294-4ff7-af87-ebcb3822a130" name="Default Changelist" comment="Q647 Palindromic Substrings" />
+    <list default="true" id="8e8659b8-0294-4ff7-af87-ebcb3822a130" name="Default Changelist" comment="Q647 Palindromic Substrings">
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/array/Q543DiameterofBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/Leetcode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/array/Q739DailyTemperatures.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/array/Q739DailyTemperatures.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/array/Q73SetMatrixZeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/array/Q73SetMatrixZeros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/InterviewQ57.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/InterviewQ59.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Java002.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Java003.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Java100.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Java101.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Java107.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Java108.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Java110.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Java111.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Java112.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Java118.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Java119.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Java121.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Java122.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Java125.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Java136.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Java141.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Java155.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Java1552.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Java160.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Java168.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Java189.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Java198.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Java202.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Java204.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/LeetCodeWeeklyTestWeek177Question5169.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/LeetCodeWeeklyTestWeek177Question5170.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/LeetCodeWeeklyTestWeek177Question5171.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/LeetCodeWeeklyTestWeek178Question5344.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/LeetCodeWeeklyTestWeek178Question5345.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/LeetCodeWeeklyTestWeek178Question5346.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/LeetCodeWeeklyTestWeek179Question5354.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/MPItest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/MergeSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q102.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q103.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q1035.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q105.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q106.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q109.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q110.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q1103.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q1111.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q113.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q114.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q1143.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q116.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q1160.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q117.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q120.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q127.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q129.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q130.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q131.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q132.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q133.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q134.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q137.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q138.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q139.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q142.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q143.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q144.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q145.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q146.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q147.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q148.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q15.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q150.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q151.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q152.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q153.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q157.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q159.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q16.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q161.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q17.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q171.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q18.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q19.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q21.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q215.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q22.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q24.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q240.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q29.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q300.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q31.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q33.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q34.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q340.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q36.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q39.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q40.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q409.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q415.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q43.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q46.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q47.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q48.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q49.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q50.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q54.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q55.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q56.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q59.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q61.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q62.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q62UniquePaths.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q63.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q64.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q67.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q70.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q71.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q73.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q74.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q75.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q77.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q78.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q79.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q80.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q81.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q82.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q83.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q86.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q860.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q89.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q8DailyPractice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q90.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q91.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q92.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q93.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q94.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q95.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q96.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/Q98.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/leetcode/TreeNode.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +192,20 @@
     <property name="project.structure.side.proportion" value="0.28166914" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Q543DiameterofBinaryTree">
+    <configuration name="Q543DiameterofBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.Q543DiameterofBinaryTree" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stringandinteger.Solution" />
       <module name="Leetcode" />
@@ -56,6 +221,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q543DiameterofBinaryTree" />
         <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
@@ -102,6 +268,11 @@
           <url>file://$PROJECT_DIR$/Leetcode/src/array/Q581ShortestUnsortedContinuousSubarray.java</url>
           <line>14</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/array/Q543DiameterofBinaryTree.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -1,3 +1,8 @@
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+
 public class Q73SetMatrixZeros{
     /**
      * Method 1: Iteration
@@ -6,7 +11,7 @@ public class Q73SetMatrixZeros{
      * Results: runtime 8ms memory 39.7mb
      */
     public void setZeroes(int[][] matrix) {
-        Map<Integer,List<Integer>> map = new HashMap<Integer, List<Integer>>();
+        Map<Integer, List<Integer>> map = new HashMap<Integer, List<Integer>>();
         for(int i = 0; i < matrix.length; i ++){
             for(int j = 0; j < matrix[0].length; j ++){
                 if(matrix[i][j]==0){
